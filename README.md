@@ -14,7 +14,6 @@ Step 2: Browse the oneAPI-samples/AI-and-Analytics/Features-and-Functionality/In
 Step 3: Open the ResNet50_Inference.ipynb<br />
 Step 4: First select stock-tensorflow kernel and add the following env variable [os.environ["TF_ENABLE_ONEDNN_OPTS"]='0'] to disable onednn and run through each cell of the notebook to get the average time and throughput.<br />
 Step 5: Follow step 4 but now with onednn on by changing the env variable  [os.environ["TF_ENABLE_ONEDNN_OPTS"]='1'] and note the performance<br />
-Step 6: Repeat the same process but this time with intel-tensorflow kernel to add further openmp optimizations and compare the average time and throughput<br />
 
 
 ## Documentation Links:
