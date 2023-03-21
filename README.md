@@ -1,5 +1,5 @@
 # Intel-oneAPI-CodeMaven
-## Environment set up for various run:
+## Environment set up for demo:
 Step 1: Open the condaenvsetup.ipynb and activate Python 3(Intel oneAPI 2022.3) kernel<br />
 Step 2: Run through the cells one by one. "qsub" submits the job to do all the setup and "qstat" shows the job status. (all details related to devcloud job submission is in the Welcome.ipyb file)<br />
 Step 3: Once the job is finished, the setup should be completed.<br />
