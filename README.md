@@ -7,7 +7,7 @@ Step 4: Now you will have stock-tensorflow as well as intel-tensorflow in the ju
 
 ## Running the notebooks:
 
-###Exercise 1:Basics of the oneDNN programming model
+### Exercise 1:Basics of the oneDNN programming model
 Step 1:Open terminal and clone oneAPI samples<br />
 Step 2: Browse the oneAPI-samples/Libraries/oneDNN/tutorials/<br />
 Step 3: Open the tutorial_getting_started.ipynb<br />
