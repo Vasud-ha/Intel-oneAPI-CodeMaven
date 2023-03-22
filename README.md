@@ -9,6 +9,7 @@ Step 4: Now you will have stock-tensorflow as well as intel-tensorflow in the ju
 
 ### Exercise 1: Basics of the oneDNN programming model.
 Step 1: Open terminal and clone oneAPI samples<br />
+git clone https://github.com/oneapi-src/oneAPI-samples.git<br />
 Step 2: Browse the oneAPI-samples/Libraries/oneDNN/tutorials/<br />
 Step 3: Open the tutorial_getting_started.ipynb<br />
 Step 4: oneDNN has four different configuration, we will build and run with oneAPI DPC++ Compiler only.<br />
