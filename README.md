@@ -7,7 +7,7 @@ Step 4: Now you will have stock-tensorflow as well as intel-tensorflow in the ju
 
 ## Running the notebooks:
 
-### Exercise 1: Basics of the oneDNN programming model
+### Exercise 1: Basics of the oneDNN programming model.
 Step 1: Open terminal and clone oneAPI samples<br />
 Step 2: Browse the oneAPI-samples/Libraries/oneDNN/tutorials/<br />
 Step 3: Open the tutorial_getting_started.ipynb<br />
@@ -15,7 +15,7 @@ Step 4: oneDNN has four different configuration, we will build and run with oneA
 Step 5: Run through each cell and while running cell for  writing for build file remove the cmake parameters.<br />
 Step 6: Output showing "example passed on CPU" will appear if the oneDNN sample has been successfully compiled.<br />
 
-### Exercise 2: Intel® Tensorflow and Stock Tensorflow Performance Comparison 
+### Exercise 2: Performance benifits with oneDNN optimization for Stock Tensorflow.
 
 Step 1: Open terminal, and clone oneAPI samples<br />
 git clone https://github.com/oneapi-src/oneAPI-samples.git<br />
